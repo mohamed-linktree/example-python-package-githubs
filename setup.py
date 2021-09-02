@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-setup(name='example-py-pack',
+setup(name='examplePyPack',
       version='0.1',
       packages = find_packages(),
       )
